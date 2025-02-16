@@ -187,3 +187,15 @@
 2/15/2025 | 8:17:48 PM | INFO | Trying to check user miner status... 
 2/15/2025 | 8:17:48 PM | INFO | Last mining time: 2/14/2025, 11:57:12 PM
 2/15/2025 | 8:17:48 PM | WARN | Mining already started, next mining time is: 2/15/2025, 11:57:12 PM
+2/16/2025 | 1:35:39 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/16/2025 | 1:35:39 AM | INFO | Start process for wallet 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+2/16/2025 | 1:35:40 AM | INFO | Trying To Login for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+2/16/2025 | 1:35:41 AM | INFO | Login successful... 
+2/16/2025 | 1:35:41 AM | INFO | Trying to check user info... 
+2/16/2025 | 1:35:42 AM | INFO | User ID: 103390039 | Twitter: @ratiifaa | Total Points: 48000 
+2/16/2025 | 1:35:42 AM | INFO | Trying to check user miner status... 
+2/16/2025 | 1:35:42 AM | INFO | Last mining time: 2/14/2025, 11:57:12 PM
+2/16/2025 | 1:35:42 AM | INFO | Trying to start Mining for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+2/16/2025 | 1:35:43 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+2/16/2025 | 1:35:43 AM | INFO | Trying to activate mining on-chain for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+2/16/2025 | 1:35:49 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2f0439620a4cddda42bf384315be0df10a8fbe84370cd37bced91a808eb2dbd1 
