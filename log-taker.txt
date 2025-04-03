@@ -2722,3 +2722,15 @@
 4/2/2025 | 8:21:34 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:21:37 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:21:37 PM | ERROR | Failed to retrieve nonce for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+4/3/2025 | 1:36:52 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:36:52 AM | INFO | Start process for wallet 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+4/3/2025 | 1:36:52 AM | INFO | Trying To Login for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+4/3/2025 | 1:36:53 AM | INFO | Login successful... 
+4/3/2025 | 1:36:53 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:36:54 AM | INFO | User ID: 103390039 | Twitter: @ratiifaa | Total Points: 1008000 
+4/3/2025 | 1:36:54 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:36:55 AM | INFO | Last mining time: 4/1/2025, 12:40:54 PM
+4/3/2025 | 1:36:55 AM | INFO | Trying to start Mining for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+4/3/2025 | 1:36:55 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:36:55 AM | INFO | Trying to activate mining on-chain for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+4/3/2025 | 1:37:07 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9aff651c6f357cba2fd9a738562d1f31b2889e36bae5e7dc97119a035cf1c6a9 
