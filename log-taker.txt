@@ -5379,3 +5379,12 @@
 5/19/2025 | 8:30:12 AM | INFO | Trying to activate mining on-chain for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
 5/19/2025 | 8:30:13 AM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 5/19/2025 | 8:30:13 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 12:43:35 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 12:43:35 PM | INFO | Start process for wallet 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+5/19/2025 | 12:43:36 PM | INFO | Trying To Login for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+5/19/2025 | 12:43:37 PM | INFO | Login successful... 
+5/19/2025 | 12:43:37 PM | INFO | Trying to check user info... 
+5/19/2025 | 12:43:37 PM | INFO | User ID: 103390039 | Twitter: @ratiifaa | Total Points: 2016000 
+5/19/2025 | 12:43:37 PM | INFO | Trying to check user miner status... 
+5/19/2025 | 12:43:38 PM | INFO | Last mining time: 5/18/2025, 8:21:54 PM
+5/19/2025 | 12:43:38 PM | WARN | Mining already started, next mining time is: 5/19/2025, 8:21:54 PM
