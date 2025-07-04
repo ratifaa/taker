@@ -7964,3 +7964,16 @@
 7/4/2025 | 8:28:39 AM | INFO | Trying to check user miner status... 
 7/4/2025 | 8:28:40 AM | INFO | Last mining time: 7/3/2025, 12:42:15 PM
 7/4/2025 | 8:28:40 AM | WARN | Mining already started, next mining time is: 7/4/2025, 12:42:15 PM
+7/4/2025 | 12:42:16 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/4/2025 | 12:42:17 PM | INFO | Start process for wallet 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+7/4/2025 | 12:42:17 PM | INFO | Trying To Login for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+7/4/2025 | 12:42:18 PM | INFO | Login successful... 
+7/4/2025 | 12:42:18 PM | INFO | Trying to check user info... 
+7/4/2025 | 12:42:19 PM | INFO | User ID: 103390039 | Twitter: @ratiifaa | Total Points: 3000000 
+7/4/2025 | 12:42:19 PM | INFO | Trying to check user miner status... 
+7/4/2025 | 12:42:21 PM | INFO | Last mining time: 7/3/2025, 12:42:15 PM
+7/4/2025 | 12:42:21 PM | INFO | Trying to start Mining for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+7/4/2025 | 12:42:22 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+7/4/2025 | 12:42:22 PM | INFO | Trying to activate mining on-chain for wallet: 0x80A8eADD4A465f7f2942222376BB95514Ba55Ac2 
+7/4/2025 | 12:42:23 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+7/4/2025 | 12:42:23 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
